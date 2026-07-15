@@ -6,7 +6,7 @@
 // dnsServer.start(DNS_PORT, "*", WiFi.softAPIP());
 // dnsServer.processNextRequest(); 
 
-### Состав проекта в архиве "nano_ui_fluid_nc.7z":
+### Состав проекта в архиве `nano_ui_fluid_nc.7z`:
 * **Установочный файл `NanoNC.apk` для смартфона**: 1. Скопируйте `NanoNC.apk` на телефон.
 2. Установите, разрешив установку из неизвестных источников.
 * **Исходный код интерфейса NanoNC в папке `nano_ui_fluid_nc`**: для запуска использовал VS Code + фреймворк Flutter. Код интерфейса находится в одном файле `nano_ui_fluid_nc/lib/main.dart`, включая картинки svg.
